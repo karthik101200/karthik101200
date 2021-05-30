@@ -6,6 +6,8 @@
 
 Here are some ideas to get you started:
 Hi there!! My name is Karthik Raman currently a pre-final year in Visvesvaraya National Institute of Technology studying Electrical and Electronics Engg(EEE).
+
+
 I am interested and intrigued by the various applications of SLAM(simultaneous localisation and mappping) especially Viusal SLAM and want to explore about its applications in autonomous systems.  
 
 My journey uptill now is given below.Do have a look!
