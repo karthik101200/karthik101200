@@ -24,5 +24,6 @@ My journey uptill now is given below.Do have a look!
 
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/karthik-raman-8528621ab/)  
-
+[<img src ='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' height='40' >](mailto:karthikraman14@gmail.com)
+&nbsp;
 <!--[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' height='40'>](karthikraman14@gmail.com) -->
