@@ -14,7 +14,7 @@ My journey uptill now is given below.Do have a look!
 
 
 - 🏫 I'm a member of [IvLabs](https://www.ivlabs.in/)(2020-23 batch)- An AI and robotics lab based in VNIT
-- 🤖 I’m currently working on a covid aid bot. 
+- 🤖 I’m have worked on simulating a COVID aid bot named [Sahayak](https://github.com/IvLabs/Sahayak-v3) 
 - 📷 Also working on an end to end (DL based) pipeline for visual odometry
 - 🧑‍💼 I have some experience with [localisation](https://github.com/karthik101200/ekf) with different filters like EKF and Es-EKF and basics of [Computer Vision](https://github.com/karthik101200/cv-)
 - 😃 Do check out some of my work as well as work our group does!
